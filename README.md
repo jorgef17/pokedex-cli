@@ -42,7 +42,7 @@ Un proyecto en Python que permite buscar información sobre cualquier Pokémon u
 1. Ejecuta el programa:
 
    ```bash
-   python main.py
+   python pokedex.py
    ```
 
 2. Sigue las instrucciones en pantalla para buscar un Pokémon o comparar dos.
